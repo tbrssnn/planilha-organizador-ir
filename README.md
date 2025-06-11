@@ -52,7 +52,7 @@ Este é um projeto de planilha em estilo aplicativo, desenvolvido no Excel com r
 
 ## 📥 Download
 
-Você pode baixar a planilha completa [clicando aqui](https://github.com/tbrssnn/planilha-organizador-ir/main/raw/files/Projeto-OrganizadorIR-Macro-VersaoFinal.xlsm) 
+Você pode baixar a planilha completa [clicando aqui](https://github.com/tbrssnn/planilha-organizador-ir/raw/main/files/Projeto-OrganizadorIR-Macro-VersaoFinal.xlsm)
 
 ---
 
