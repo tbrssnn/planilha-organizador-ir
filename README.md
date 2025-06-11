@@ -21,22 +21,33 @@ Este é um projeto de planilha em estilo aplicativo, desenvolvido no Excel com r
 | `Notas`        | Registro de movimentações, rendimentos isentos e tributáveis |
 | `Resumo`       | Simulação automática do IR com base nas demais abas |
 
+## ▶️ Como usar
+
+1. **Abra a planilha no Excel**  
+   Habilite **macros**, se solicitado.
+
+2. **Preencha as abas na ordem sugerida no menu lateral:**
+   - 🔹 **Contribuinte**: Dados do declarante e seus dependentes
+   - 🔹 **Informes**: Bancos, saldos, rendimentos, investimentos
+   - 🔹 **Notas**: Outras fontes de renda (aluguéis, lucros, rendimentos isentos)
+
+3. **Utilize os recursos inteligentes:**
+   - Listas suspensas para tipos de rendimentos, instituições e classificações
+   - Máscaras e formatações personalizadas (ex: CPF: `000"."000"."000"-"00`)
+
+4. **Veja o cálculo automático na aba Resumo:**
+   - Total de rendimentos tributáveis e isentos
+   - Deduções com base nos dependentes e valores inseridos
+   - Base de cálculo do IR
+   - IR devido ou a restituir, considerando IR retido
+
+5. **Gere um PDF (opcional):**
+   - Clique no botão **"Gerar Relatório"** para exportar todas as abas em um único PDF
+
 ## 📷 Imagens do Projeto
 
 ### 🎨 Visual geral estilo aplicativo:
-![Menu lateral](imagens/menu_lateral.png)
-
-### 🧾 Aba Contribuinte:
-![Contribuinte](imagens/contribuinte.png)
-
-### 💰 Informes bancários:
-![Informes](imagens/informes.png)
-
-### 📑 Aba Notas:
-![Notas](imagens/notas.png)
-
-### 📈 Resumo e Simulação IR:
-![Resumo](imagens/resumo.png)
+![Menu lateral](image/PrintScreenProjeto.png)
 
 ## ⚙️ Tecnologias e Recursos Utilizados
 
@@ -50,21 +61,16 @@ Este é um projeto de planilha em estilo aplicativo, desenvolvido no Excel com r
 - A planilha pode ser adaptada para uso real com dados do contribuinte.
 - Otimizada para uso anual (ex: declaração ano-base 2024).
 
+## 🛠️ Requisitos
+
+- Microsoft Excel 2016 ou superior (para suportar fórmulas, gráficos e controles)
+
 ## 📥 Download
 
 Você pode baixar a planilha completa [clicando aqui](https://github.com/tbrssnn/planilha-organizador-ir/raw/main/files/Projeto-OrganizadorIR-Macro-VersaoFinal.xlsm)
 
----
+## 🧠 Autor
 
-### 🔄 Sugestões adicionais (caso queira implementar no GitHub):
+Thiago Brassanini
+tbrassanini@gmail.com
 
-1. **Criar uma pasta `/imagens/`** no repositório e subir os arquivos PNG da interface.
-2. **Subir a planilha `.xlsx`** e adicionar o link real no `README.md` na seção “📥 Download”.
-3. (Opcional) Criar um **GIF curto (5–10s)** mostrando a navegação pela planilha (usando Loom, OBS, ou outro gravador).
-4. Criar um `LICENSE.md` com a licença desejada (ex: MIT, CC BY-NC-SA).
-
----
-
-Se quiser, posso te ajudar agora com os nomes dos arquivos, pastas e até com os comandos git para subir tudo certinho.
-
-Quer que eu já escreva a estrutura de diretórios e o comando para subir ao GitHub?
