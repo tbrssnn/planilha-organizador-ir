@@ -7,7 +7,6 @@ Este é um projeto de planilha em estilo aplicativo, desenvolvido no Excel com r
 - **Menu lateral interativo**
 - **Preenchimento facilitado por listas suspensas** (ex: banco, tipo de bem, código do rendimento)
 - **Padronização de campos** como CPF (`000"."000"."000"-"00`), CNPJ e datas
-- **Importação automática de dados** via Power Query (PDF, CSV, etc.)
 - **Resumo com Simulação de IR** automático, com cálculo de imposto devido ou a restituir
 - **Geração de PDF com todas as abas** via macro em VBA
 - **Estilo visual tipo aplicativo**, com design limpo e navegação intuitiva
