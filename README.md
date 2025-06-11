@@ -1,6 +1,6 @@
 # 📊 Planilha Organizador de Imposto de Renda
 
-Este é um projeto de planilha em estilo aplicativo, desenvolvido no Excel com recursos avançados, para auxiliar na organização e simulação do Imposto de Renda Pessoa Física.
+Este é um projeto de planilha em estilo aplicativo, desenvolvido no Excel com recursos avançados, para auxiliar na organização e simulação do Imposto de Renda Pessoa Física. Desenvolvida como projeto para o Curso Excel com Inteligência Artificial DIO-Santander
 
 ## 📌 Funcionalidades
 
