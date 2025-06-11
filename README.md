@@ -1,4 +1,4 @@
-# 📊 Planilha Organizador de Imposto de Renda - Excel Avançado com IA
+# 📊 Planilha Organizador de Imposto de Renda
 
 Este é um projeto de planilha em estilo aplicativo, desenvolvido no Excel com recursos avançados, para auxiliar na organização e simulação do Imposto de Renda Pessoa Física.
 
@@ -52,7 +52,7 @@ Este é um projeto de planilha em estilo aplicativo, desenvolvido no Excel com r
 
 ## 📥 Download
 
-Você pode baixar a planilha completa [clicando aqui](https://github.com/tbrssnn/planilha-organizador-ir/tree/main/raw/files/Projeto-OrganizadorIR-Macro-VersaoFinal.xlsm) 
+Você pode baixar a planilha completa [clicando aqui](https://github.com/tbrssnn/planilha-organizador-ir/main/raw/files/Projeto-OrganizadorIR-Macro-VersaoFinal.xlsm) 
 
 ---
 
